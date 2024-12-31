@@ -9,3 +9,10 @@ Links that could be useful
 
 - Provides Zendesk template or colors, uses those colors to create visualizations, outstanding design of tables
 [Tableau_folder](https://prod-useast-a.online.tableau.com/#/site/zendesktableau/projects/505975)
+
+
+[Ticket Volume Tracking](https://docs.google.com/spreadsheets/d/1ooH3aphBuAH5P-_qYhDr3BQaSqmB01frD86aIvPlyuQ/edit?usp=sharing_eil_m&ts=657b5bbb)
+- Provides Zendesk template or colors
+- Great formating example for summary tables
+- tix analysis
+  
