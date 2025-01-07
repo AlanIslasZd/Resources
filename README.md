@@ -16,3 +16,4 @@ Links that could be useful
 - Great formating example for summary tables
 - tix analysis
   
+[Strategy & Objectives](https://zentranet.com/intranet/ls/content/4222807341318583/company-strategy-and-2025-objectives)
