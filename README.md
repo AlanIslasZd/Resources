@@ -1,6 +1,8 @@
 # Resources
 Links that could be useful
 
+[EDA -CX Weekly](https://lucid.app/lucidspark/5f78fc8b-2b31-42f9-8820-f33616d29aa8/edit?invitationId=inv_b4d869ed-0530-42dd-bc69-765861955d9a&page=0_0#)
+
 [Customer Support Metrics Deck](https://docs.google.com/presentation/d/1MbdoMRhlH-_8Zn5rFWl4xxLTzLKRsUdnKW6bHtE8Xb8/edit?usp=sharing)
 
 - tNPS, and response times per Advocacy Group
