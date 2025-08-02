@@ -1,6 +1,13 @@
 # Resources
 Links that could be useful
 
+[EDA Utopia](https://lucid.app/lucidspark/1d855587-40b7-4507-b5a6-9d9ff8cdf819/edit?beaconFlowId=CACA117501BA393F&invitationId=inv_309f9648-25e7-4129-847d-db4aea04aa71&page=0_0#)
+
+[Lucid Team Meeting Notes](https://lucid.app/lucidchart/d624d0d0-3514-461e-86be-38657e7c8725/edit?invitationId=inv_13c7d54b-fe01-441f-b5ff-0fdeb0031d21&page=0_0#)
+ e.g. As an analyst, it can feel uncomfortable but I think its good to be a squeaky wheel and err on the side of overcommunicating or bugging people
+
+[Team Accomplish
+
 [EDA -CX Weekly](https://lucid.app/lucidspark/5f78fc8b-2b31-42f9-8820-f33616d29aa8/edit?invitationId=inv_b4d869ed-0530-42dd-bc69-765861955d9a&page=0_0#)
 
 [Customer Support Metrics Deck](https://docs.google.com/presentation/d/1MbdoMRhlH-_8Zn5rFWl4xxLTzLKRsUdnKW6bHtE8Xb8/edit?usp=sharing)
