@@ -1,6 +1,8 @@
 # Resources
 Links that could be useful
 
+[Alan/Annemarie 1:1](https://docs.google.com/document/d/1ra-fSqFBNvQ8lr2kS9nocww5Nkv3G2AEwVECh88Ug88/edit?usp=sharing)
+
 [EDA Utopia](https://lucid.app/lucidspark/1d855587-40b7-4507-b5a6-9d9ff8cdf819/edit?beaconFlowId=CACA117501BA393F&invitationId=inv_309f9648-25e7-4129-847d-db4aea04aa71&page=0_0#)
 
 [Lucid Team Meeting Notes](https://lucid.app/lucidchart/d624d0d0-3514-461e-86be-38657e7c8725/edit?invitationId=inv_13c7d54b-fe01-441f-b5ff-0fdeb0031d21&page=0_0#)
